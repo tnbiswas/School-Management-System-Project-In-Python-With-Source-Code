@@ -24,6 +24,6 @@ name your python file and click “enter” to start creating a School Managemen
 *Step 4: Now you can start coding.
 You are free to copy the given code below and paste it to you python file.
 
-#Main Module of School Management System Project In Python
+# Main Module of School Management System Project In Python
 This is the main module of this project.
 
