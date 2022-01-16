@@ -27,3 +27,23 @@ You are free to copy the given code below and paste it to you python file.
 # Main Module of School Management System Project In Python
 This is the main module of this project.
 
+
+# This will be the output:
+Username: 1
+Password: 1
+
+# School Management System In Python : Project Information
+Project Name:	School Management System
+Language/s Used:	Python with Tkinter GUI Library
+Python version (Recommended):	2.x or 3.x
+Database:	MySQL
+Type:	Python App
+Developer:	IT SOURCECODE
+Updates:	0
+School Management System In Python – Project Information
+
+# Downloadable Source Code Below.
+I have here the list of Best Python Project with Source code free to download for free, I hope this can help you a lot.
+
+# Summary
+This School Management System Project In Python contains the admin side only that can manage the information in registration of the student, fee details and student details. This project is good for the student who want to learn python programming because this project contains a Graphical User Interface (GUI) and a users friendly. it is easy to understand and manipulate this project .
