@@ -1,0 +1,2 @@
+# School-Management-System-Project-In-Python-With-Source-Code
+The School Management System Project In Python is written in python programming language, In this School Management System Project In Python,i will teach you how to create and manage the School Management System Python. and also this School Management System Code In Python GUI is a Graphical User Interface that easy to understand and manipulate by the user.
